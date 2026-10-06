@@ -4,10 +4,10 @@ A curated record of my professional certifications and credentials in software t
 
 ## Certifications
 
-| Certification | Issuer | Issued | Expires | Credential ID | Verify |
+| Certification | Issuer |  | Credential ID | Verify |
 |---|---|---|---|---|---|
-| <Certification name> | <Issuer> | <MMM YYYY> | <MMM YYYY / None> | <ID> | [Link](<url>) |
-| <Certification name> | <Issuer> | <MMM YYYY> | None | <ID> | [Link](<url>) |
+| <Certification name> |  <ID> | [Link](<url>) |
+| <Certification name> | <ID> | [Link](<url>) |
 
 ## Skills demonstrated
 
@@ -24,8 +24,8 @@ A curated record of my professional certifications and credentials in software t
 
 ## About me
 
-<Your name> | <Role, e.g. QA Automation Engineer>
-[LinkedIn](<url>) | [Email](mailto:<email>)
+<Sunit Pramod Kulkarni> | <Role,Senior Test Engineer>
+[LinkedIn]([<url>](https://www.linkedin.com/in/sunitkulkarni/)) | [Email](sunitkulkarni@hotmail.com >)
 
 ## Note
 
