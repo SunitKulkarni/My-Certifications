@@ -12,7 +12,7 @@ A curated record of my professional certifications and credentials in software t
 | Playwright with AI: Agents, Context, and Test Automation Patterns | LinkedIn Learning | Aug 2026 | None | 29075a40d5fe962f45e53f5e56f5bd3c1eb6fab2ae1004d4eeb6045c48a73f6ed96 | [Open certificate](certificates/04-playwright-with-ai-agents-context-and-test-automation-patterns.svg) |
 | Generative AI in Testing | ShiftSync Community | 2026-07-17 | None | 3605f44a-9365-458d-a23c-54fb5e955a09 | [Open certificate](certificates/07-generative-ai-in-testing.svg) |
 | How to integrate AI in QA organizations | ShiftSync Community | 2026-07-08 | None | b5b13919-a823-421a-b1e6-cdbd21c03626 | [Open certificate](certificates/08-how-to-integrate-ai-in-qa-organizations.svg) |
-| Playwright Automation | Naresh IT | Jul 2026 | None | NARESHIT-PLAYWRIGHT-2026 | [Open certificate](certificates/06-nareshit-playwright-automation.svg) |
+| Playwright Automation | Naresh IT | Aug 2026 | None | NARESHIT-PLAYWRIGHT-2026 | [Open certificate](certificates/06-nareshit-playwright-automation.svg) |
 
 ## Certificate gallery
 
