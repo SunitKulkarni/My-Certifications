@@ -22,6 +22,15 @@ A curated record of my professional certifications and credentials in software t
 - Test automation tooling and CI integration
 - Quality engineering and regression validation
 
+## Practical Projects
+
+| Project | Description | Project URL |
+|---|---|---|
+| ParaBank POM | End-to-End Testing using Page Object Model using Playwright JavaScript | [ParabankLtd](https://github.com/SunitKulkarni/ParabankLtd) |
+| ParaBank Cucumber | End-to-End Testing using BDD Cucumber using Playwright JavaScript | [ParaBank-Cucumber](https://github.com/SunitKulkarni/ParaBank-Cucumber) |
+| Nova Shop POM | End-to-End Testing using Page Object Model using Playwright TypeScript | [nova-shop](https://github.com/SunitKulkarni/nova-shop) |
+| Nova Shop BDD | End-to-End Testing using Playwright + TypeScript BDD framework | [Nova-Shop-BDD](https://github.com/SunitKulkarni/Nova-Shop-BDD) |
+
 ## Repository structure
 
     My-Certifications/
