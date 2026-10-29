@@ -1,18 +1,18 @@
 # Professional Certifications
 
-A curated record of my professional certifications and credentials in software testing, quality engineering, and agile delivery. Each entry includes the issuing organization, credential ID, and verification links.
+A curated record of my professional certifications and credentials in software testing, quality engineering, and agile delivery. Each entry includes the issuing organization, credential ID, and verification details.
 
 ## 📋 Certifications
 
 | # | Certification | Issuer | Issued | Verify & View |
 |---|---|---|---|---|
-| 1 | **Atlassian Agile Project Management Professional Certificate** | Atlassian / LinkedIn Learning | Sep 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/4d5bbd2ccdf7fbc42a0048e9f55eea27cce112071101dd1778712364bfba6921) • [📄 View](certificates/01-atlassian-agile-project-management-professional-certificate.svg) |
-| 2 | **Mistakes to Avoid in Agile Project Management** | LinkedIn Learning / PMI | Sep 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/8be3bf40dbc8e5006a57a7791cb6cc98677f255b16de45d6e495171f585e3435) • [📄 View](certificates/02-mistakes-to-avoid-in-agile-project-management.svg) |
-| 3 | **Master Test Automation with Playwright** | LinkedIn Learning | Aug 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/bc43a8641aa19bf17d22005c0ae0beecdabdf9ec7ad52daca4f2f8832114a985) • [📄 View](certificates/03-master-test-automation-with-playwright.svg) |
-| 4 | **Playwright with AI: Agents, Context, and Test Automation Patterns** | LinkedIn Learning | Aug 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/29075a40d5fe962f45e53f5e56f5bd3c1eb6fab2ae1004d4eeb6045c48a73f6ed96) • [📄 View](certificates/04-playwright-with-ai-agents-context-and-test-automation-patterns.svg) |
-| 5 | **Generative AI in Testing** | ShiftSync Community | Jul 2026 | [🔍 Verify](https://www.shiftsync.dev/verify) • [📄 View](certificates/07-generative-ai-in-testing.svg) |
-| 6 | **How to integrate AI in QA organizations** | ShiftSync Community | Jul 2026 | [🔍 Verify](https://www.shiftsync.dev/verify) • [📄 View](certificates/08-how-to-integrate-ai-in-qa-organizations.svg) |
-| 7 | **Playwright Automation** | Naresh IT | Aug 2026 | [🔍 Verify](https://www.nareshit.com/verify) • [📄 View](certificates/06-nareshit-playwright-automation.svg) |
+| 1 | **Atlassian Agile Project Management Professional Certificate** | Atlassian / LinkedIn Learning | Sep 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/4d5bbd2ccdf7fbc42a0048e9f55eea27cce112071101dd1778712364bfba6921) • [📄 View](Agile%20Project%20Management/CertificateOfCompletion_Atlassian%20Agile%20Project%20Management%20Professional%20Certificate.pdf) |
+| 2 | **Mistakes to Avoid in Agile Project Management** | LinkedIn Learning / PMI | Sep 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/8be3bf40dbc8e5006a57a7791cb6cc98677f255b16de45d6e495171f585e3435) • [📄 View](Agile%20Project%20Management/CertificateOfCompletion_Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management.pdf) |
+| 3 | **Master Test Automation with Playwright** | LinkedIn Learning | Aug 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/bc43a8641aa19bf17d22005c0ae0beecdabdf9ec7ad52daca4f2f8832114a985) • [📄 View](Playwright/CertificateOfCompletion_Master%20Test%20Automation%20with%20Playwright.pdf) |
+| 4 | **Playwright with AI: Agents, Context, and Test Automation Patterns** | LinkedIn Learning | Aug 2026 | [🔍 Verify](https://www.linkedin.com/learning/certificates/29075a40d5fe962f45e53f5e56f5bd3c1eb6fab2ae1004d4eeb6045c48a73f6ed96) • [📄 View](Playwright/CertificateOfCompletion_Playwright%20with%20AI%20Agents%20Context%20and%20Test%20Automation%20Patterns.pdf) |
+| 5 | **Generative AI in Testing** | ShiftSync Community | Jul 2026 | [🔍 Verify](https://www.shiftsync.dev/verify) • [📄 View](AI%20in%20Testing/3605f44a-9365-458d-a23c-54fb5e955a09.pdf) |
+| 6 | **How to integrate AI in QA organizations** | ShiftSync Community | Jul 2026 | [🔍 Verify](https://www.shiftsync.dev/verify) • [📄 View](AI%20in%20Testing/b5b13919-a823-421a-b1e6-cdbd21c03626.pdf) |
+| 7 | **Playwright Automation** | Naresh IT | Aug 2026 | [🔍 Verify](https://www.nareshit.com/verify) • [📄 View](Playwright/Sunit%20Pramod%20Kulkarni-%20NareshIT%20PL%20Automation%20%20Cousre%20Complete.pdf) |
 
 ### Credential IDs
 - **Cert 1:** `4d5bbd2ccdf7fbc42a0048e9f55eea27cce112071101dd1778712364bfba6921`
@@ -29,7 +29,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 1) Atlassian Agile Project Management Professional Certificate
 
-![Atlassian Agile Project Management Professional Certificate](certificates/01-atlassian-agile-project-management-professional-certificate.svg)
+![Atlassian Agile Project Management Professional Certificate](Agile%20Project%20Management/CertificateOfCompletion_Atlassian%20Agile%20Project%20Management%20Professional%20Certificate_page-0001.jpg)
 
 **Issued:** Sep 2026 | **Verify:** [View Certificate](https://www.linkedin.com/learning/certificates/4d5bbd2ccdf7fbc42a0048e9f55eea27cce112071101dd1778712364bfba6921)
 
@@ -37,7 +37,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 2) Mistakes to Avoid in Agile Project Management
 
-![Mistakes to Avoid in Agile Project Management](certificates/02-mistakes-to-avoid-in-agile-project-management.svg)
+![Mistakes to Avoid in Agile Project Management](Agile%20Project%20Management/CertificateOfCompletion_Mistakes%20to%20Avoid%20in%20Agile%20Project%20Management_page-0001.jpg)
 
 **Issued:** Sep 2026 | **Verify:** [View Certificate](https://www.linkedin.com/learning/certificates/8be3bf40dbc8e5006a57a7791cb6cc98677f255b16de45d6e495171f585e3435)
 
@@ -45,7 +45,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 3) Master Test Automation with Playwright
 
-![Master Test Automation with Playwright](certificates/03-master-test-automation-with-playwright.svg)
+![Master Test Automation with Playwright](Playwright/CertificateOfCompletion_Master%20Test%20Automation%20with%20Playwright_page-0001.jpg)
 
 **Issued:** Aug 2026 | **Verify:** [View Certificate](https://www.linkedin.com/learning/certificates/bc43a8641aa19bf17d22005c0ae0beecdabdf9ec7ad52daca4f2f8832114a985)
 
@@ -53,7 +53,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 4) Playwright with AI: Agents, Context, and Test Automation Patterns
 
-![Playwright with AI: Agents, Context, and Test Automation Patterns](certificates/04-playwright-with-ai-agents-context-and-test-automation-patterns.svg)
+![Playwright with AI: Agents, Context, and Test Automation Patterns](Playwright/CertificateOfCompletion_Playwright%20with%20AI%20Agents%20Context%20and%20Test%20Automation%20Patterns_page-0001.jpg)
 
 **Issued:** Aug 2026 | **Verify:** [View Certificate](https://www.linkedin.com/learning/certificates/29075a40d5fe962f45e53f5e56f5bd3c1eb6fab2ae1004d4eeb6045c48a73f6ed96)
 
@@ -61,7 +61,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 5) Generative AI in Testing
 
-![Generative AI in Testing](certificates/07-generative-ai-in-testing.svg)
+![Generative AI in Testing](AI%20in%20Testing/3605f44a-9365-458d-a23c-54fb5e955a09.png)
 
 **Issued:** Jul 2026 | **Verify:** [View Certificate](https://www.shiftsync.dev/verify)
 
@@ -69,7 +69,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 6) How to integrate AI in QA organizations
 
-![How to integrate AI in QA organizations](certificates/08-how-to-integrate-ai-in-qa-organizations.svg)
+![How to integrate AI in QA organizations](AI%20in%20Testing/b5b13919-a823-421a-b1e6-cdbd21c03626.png)
 
 **Issued:** Jul 2026 | **Verify:** [View Certificate](https://www.shiftsync.dev/verify)
 
@@ -77,7 +77,7 @@ A curated record of my professional certifications and credentials in software t
 
 ### 7) Naresh IT Playwright Automation Certificate
 
-![Naresh IT Playwright Automation Certificate](certificates/06-nareshit-playwright-automation.svg)
+![Naresh IT Playwright Automation Certificate](Playwright/Sunit%20Pramod%20Kulkarni-%20NareshIT%20PL%20Automation%20%20Cousre%20Complete_page-0001.jpg)
 
 **Issued:** Aug 2026 | **Verify:** [View Certificate](https://www.nareshit.com/verify)
 
@@ -111,16 +111,22 @@ A curated record of my professional certifications and credentials in software t
 ```
 My-Certifications/
 ├── README.md
+├── AI in Testing/
+│   ├── 3605f44a-9365-458d-a23c-54fb5e955a09.pdf
+│   ├── 3605f44a-9365-458d-a23c-54fb5e955a09.png
+│   ├── b5b13919-a823-421a-b1e6-cdbd21c03626.pdf
+│   └── b5b13919-a823-421a-b1e6-cdbd21c03626.png
 ├── Agile Project Management/
-│   └── Agile.MD
-├── certificates/
-│   ├── 01-atlassian-agile-project-management-professional-certificate.svg
-│   ├── 02-mistakes-to-avoid-in-agile-project-management.svg
-│   ├── 03-master-test-automation-with-playwright.svg
-│   ├── 04-playwright-with-ai-agents-context-and-test-automation-patterns.svg
-│   ├── 06-nareshit-playwright-automation.svg
-│   ├── 07-generative-ai-in-testing.svg
-│   └── 08-how-to-integrate-ai-in-qa-organizations.svg
+│   ├── CertificateOfCompletion_Atlassian Agile Project Management Professional Certificate.pdf
+│   ├── CertificateOfCompletion_Atlassian Agile Project Management Professional Certificate_page-0001.jpg
+│   ├── CertificateOfCompletion_Mistakes to Avoid in Agile Project Management.pdf
+│   └── CertificateOfCompletion_Mistakes to Avoid in Agile Project Management_page-0001.jpg
+├── Playwright/
+│   ├── CertificateOfCompletion_Master Test Automation with Playwright.pdf
+│   ├── CertificateOfCompletion_Master Test Automation with Playwright_page-0001.jpg
+│   ├── CertificateOfCompletion_Playwright with AI Agents Context and Test Automation Patterns.pdf
+│   ├── CertificateOfCompletion_Playwright with AI Agents Context and Test Automation Patterns_page-0001.jpg
+│   └── Sunit Pramod Kulkarni- NareshIT PL Automation  Cousre Complete.pdf
 ├── badges/               # Digital badge images
 └── notes/                # Supporting learning notes
 ```
